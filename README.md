@@ -1,4 +1,4 @@
-<h1 align="center"><code>OTP-SPAMMER</code></h1> <p align="center"> <img src="https://github.com/DaemonTechX/Otp-Spammer/blob/main/Screenshot_20251028-204245.png" width="800"><br><br>
+<h1 align="center"><code>OTP-SPAMMER</code></h1> <p align="center"> <img src="https://github.com/DaemonTechX/Otp-Spammer/blob/main/file_00000000a8e071faa52a451af27fc3d8.png" width="800"><br><br>
 
 _Sebuah alat yang berfungsi untuk mengirimkan banyak kode OTP secara beruntun dengan tujuan menyepam ataupun membanjiri kolom pesan target_
 
@@ -19,6 +19,10 @@ cd Otp-Spammer
 ls
 
 pip install requests
+
+pip install beautifulsoup4
+
+pip install urllib3
 
 python otp.py
 ```
